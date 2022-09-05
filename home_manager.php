@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title> UVA WELLESSA UNIVERSITY @2022</title>
+<title> Admin</title>
 
 	<!-- Meta tag Keywords -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -116,7 +116,7 @@
 									<circle id="cd-circle-1" cx="110" cy="400" r="1364"/>
 								</clipPath>
 							</defs>
-							<image height='800px' width="1400px" clip-path="url(#cd-image-1)" xlink:href="web_home/images/1.png"></image>
+							<image height='1000px' width="1400px" clip-path="url(#cd-image-1)" xlink:href="web_home/images/1.jpg"></image>
 						</svg>
 					</div> <!-- .svg-wrapper -->
 					<div class="cd-radial-slider-content">
@@ -208,7 +208,7 @@
 <footer class="py-5">
 	<div class="container py-md-5">
 		<div class="footer-logo mb-5 text-center">
-			<a class="navbar-brand"  href="http://www.nitc.ac.in/" target="_blank">NIT<span class="display"> CALICUT</span></a>
+			<a class="navbar-brand"  href="https://www.uwu.ac.lk/" target="_blank">UWU<span class="display"> BADULLA</span></a>
 		</div>
 		<div class="footer-grid">
 			

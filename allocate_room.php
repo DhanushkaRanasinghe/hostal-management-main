@@ -68,12 +68,8 @@
 								<li>
 									<a href="allocated_rooms.php">Allocated Rooms</a>
 								</li>
-								<li class="nav-item">
-									<a class="nav-link" href="message_hostel_manager.php">Messages </a>
-								</li>
-								<li class="nav-item">
-									<a class="nav-link" href="message_hostel_manager.php">Messages Received</a>
-								</li>
+								
+								
 								<li>
 									<a href="empty_rooms.php">Empty Rooms</a>
 								</li>
@@ -82,6 +78,9 @@
 								</li>
 							</ul>
 						</li>
+						<li class="nav-item">
+									<a class="nav-link" href="message_hostel_manager.php">Messages </a>
+								</li>
 					<li class="nav-item">
 						<a class="nav-link" href="contact_manager.php">Contact</a>
 					</li>

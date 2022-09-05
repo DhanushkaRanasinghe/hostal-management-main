@@ -306,7 +306,7 @@
 <footer class="py-5">
 	<div class="container py-md-5">
 		<div class="footer-logo mb-5 text-center">
-			<a class="navbar-brand" href="https://www.uwu.ac.lk/" target="_blank">UWU <span class="display"> BADULLA</span></a>
+			<a class="navbar-brand" href="https://www.uwu.ac.lk/" target="_blank">HMS <span class="display"> UWU</span></a>
 		</div>
 		<div class="footer-grid">
 			
@@ -326,6 +326,9 @@
 						<a href="profile.php">Profile</a>
 					</li>
 				</ul>
+				<div class="agileits_w3layouts-copyright mt-4 text-center">
+				<p>© HMS 2022 | Uva Wellassa University</p>
+		</div>
 			</div>
 			
 		</div>

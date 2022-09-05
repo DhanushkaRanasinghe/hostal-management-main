@@ -35,7 +35,7 @@
 	<!-- //testimonials css -->
 
 	<!-- web-fonts -->
-	<link href="//fonts.googleapis.com/css?family=Poiret+One&amp;subset=cyrillic,latin-ext" rel="stylesheet">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
 	<!-- //web-fonts -->
 
 </head>
@@ -213,6 +213,9 @@
 						<a href="manager_profile.php">Profile</a>
 					</li>
 				</ul>
+				<div class="agileits_w3layouts-copyright mt-4 text-center">
+				<p>© HMS 2022 | Uva Wellassa University</p>
+		</div>
 			</div>
 			
 		</div>

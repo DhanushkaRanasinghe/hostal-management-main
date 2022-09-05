@@ -33,7 +33,7 @@
 	<!-- //css files -->
 	
 	<!-- web-fonts -->
-	<link href="//fonts.googleapis.com/css?family=Poiret+One&amp;subset=cyrillic,latin-ext" rel="stylesheet">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
 	<link href="//fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese" rel="stylesheet">
 	<!-- //web-fonts -->
 	
@@ -63,7 +63,7 @@
 						<a class="nav-link" href="allocate_room.php">Allocate Room</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="message_hostel_manager.php">Messages Received</a>
+						<a class="nav-link" href="message_hostel_manager.php">Messages</a>
 					</li>
 					<li class="dropdown nav-item">
 						<a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">Rooms

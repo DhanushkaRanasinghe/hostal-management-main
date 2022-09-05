@@ -54,7 +54,7 @@
       <!--  <p class=" w3l-register-p">Don't have an account?<a href="signup.php" class="register"> Sign up</a></p>-->
     </div>
     <footer>
-        <p> UWU WELLESSA UNIVERSITY|@2022 </p>
+        <p>© HMS 2022 | Uva Wellassa University</p>
     </footer>
 
 </body>

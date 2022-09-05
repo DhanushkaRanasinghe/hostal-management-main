@@ -51,7 +51,7 @@
 	<div class="container agile-banner_nav">
 		<nav class="navbar navbar-expand-lg navbar-light bg-light">
 
-			<h1><a class="navbar-brand" href="home_manager.php">UWU<span class="display"></span></a></h1>
+			<h1><a class="navbar-brand" href="home_manager.php">HMS<span class="display"></span></a></h1>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 			<span class="navbar-toggler-icon"></span>
 			</button>
@@ -64,7 +64,7 @@
 						<a class="nav-link" href="add_student_csv.php">Add Students</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="message_hostel_manager.php">Messages Received</a>
+						<a class="nav-link" href="message_hostel_manager.php">Messages </a>
 					</li>
 					<li class="dropdown nav-item">
 						<a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">Rooms
@@ -208,7 +208,7 @@
 <footer class="py-5">
 	<div class="container py-md-5">
 		<div class="footer-logo mb-5 text-center">
-			<a class="navbar-brand"  href="https://www.uwu.ac.lk/" target="_blank">UWU<span class="display"> BADULLA</span></a>
+			<a class="navbar-brand"  href="https://www.uwu.ac.lk/" target="_blank">HMS<span class="display"> UWU</span></a>
 		</div>
 		<div class="footer-grid">
 			

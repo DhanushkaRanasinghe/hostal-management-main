@@ -77,7 +77,7 @@
 						<a class="nav-link" href="allocate_room.php">Allocate Room</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="message_hostel_manager.php">Messages Received</a>
+						<a class="nav-link" href="message_hostel_manager.php">Messages</a>
 					</li>
 					<li class="dropdown nav-item">
 						<a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">Rooms
@@ -152,7 +152,7 @@
 <footer class="py-5">
 	<div class="container py-md-5">
 		<div class="footer-logo mb-5 text-center">
-			<a class="navbar-brand" href="http://www.nitc.ac.in/" target="_blank">NIT <span class="display"> CALICUT</span></a>
+			<a class="navbar-brand" href="http://www.nitc.ac.in/" target="_blank">HMS <span class="display"> UWU</span></a>
 		</div>
 		<div class="footer-grid">
 			<div class="list-footer">
@@ -170,6 +170,9 @@
 						<a href="admin/manager_profile.php">Profile</a>
 					</li>
 				</ul>
+				<div class="agileits_w3layouts-copyright mt-4 text-center">
+				<p>© HMS 2022 | Uva Wellassa University</p>
+		</div>
 			</div>
 			
 		</div>

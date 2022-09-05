@@ -32,7 +32,7 @@
 	<!-- //css files -->
 	
 	<!-- web-fonts -->
-	<link href="//fonts.googleapis.com/css?family=Poiret+One&amp;subset=cyrillic,latin-ext" rel="stylesheet">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
 	<!-- //web-fonts -->
 	
 </head>

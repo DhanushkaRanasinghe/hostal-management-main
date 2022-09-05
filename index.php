@@ -17,8 +17,7 @@
     <link href="web/css/fontawesome-all.css" rel="stylesheet" />
     <!-- /fontawesome css -->
     <!-- google fonts-->
-    <link href="//fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
-        rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
     <!-- /google fonts-->
 
 </head>
@@ -55,7 +54,7 @@
         <p class=" w3l-register-p">Don't have an account?<a href="signup.php" class="register"> Sign up</a></p>
     </div>
     <footer>
-        <p >  UVA WELLESSA UNIVERSITY|@2022 </a></p>
+        <p>© HMS 2022 | Uva Wellassa University</p>
     </footer>
 
 </body>

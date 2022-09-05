@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title> Allocated Rooms</title>
+<title> Allocated Rooms | HMS</title>
 	
 	<!-- Meta tag Keywords -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -180,7 +180,7 @@ if(isset($_POST["import"])){
 <footer class="py-5">
 	<div class="container py-md-5">
 		<div class="footer-logo mb-5 text-center">
-			<a class="navbar-brand" href="http://www.nitc.ac.in/" target="_blank">NIT <span class="display"> CALICUT</span></a>
+			<a class="navbar-brand" href="http://www.nitc.ac.in/" target="_blank">HMS <span class="display"> UWU</span></a>
 		</div>
 		<div class="footer-grid">
 			<div class="list-footer">
@@ -198,6 +198,9 @@ if(isset($_POST["import"])){
 						<a href="admin/manager_profile.php">Profile</a>
 					</li>
 				</ul>
+				<div class="agileits_w3layouts-copyright mt-4 text-center">
+				<p>© HMS 2022 | Uva Wellassa University</p>
+		</div>
 			</div>
 			
 		</div>

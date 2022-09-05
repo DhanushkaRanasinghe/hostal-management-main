@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title> Intrend Interior Category Flat Bootstrap Responsive Website Template | Services : W3layouts</title>
+<title> Vacate Rooms | HMS</title>
 	
 	<!-- Meta tag Keywords -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -47,7 +47,7 @@
 		<div class="container agile-banner_nav">
 			<nav class="navbar navbar-expand-lg navbar-light bg-light">
 				
-				<h1><a class="navbar-brand" href="home.php">In <span class="display"> Trend</span></a></h1>
+				<h1><a class="navbar-brand" href="home.php"> <span class="display"> HMS</span></a></h1>
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
 				</button>
@@ -57,14 +57,12 @@
 						<li class="nav-item">
 							<a class="nav-link" href="home_manager.php">Home <span class="sr-only">(current)</span></a>
 						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="about_manager.php">About</a>
-						</li>
+
 						<li class="nav-item">
 						<a class="nav-link" href="allocate_room.php">Allocate Room</a>
 					<li class="dropdown nav-item">
 						<li class="nav-item">
-						<a class="nav-link" href="message_hostel_manager.php">Messages Received</a>
+						<a class="nav-link" href="message_hostel_manager.php">Messages</a>
 					</li>
 						<a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">Rooms
 							<b class="caret"></b>
@@ -194,7 +192,7 @@ if(isset($_POST['submit'])){
 <footer class="py-5">
 	<div class="container py-md-5">
 		<div class="footer-logo mb-5 text-center">
-			<a class="navbar-brand" href="index.html">In <span class="display"> Trend</span></a>
+			<a class="navbar-brand" href="index.html">HMS <span class="display"> UWU</span></a>
 		</div>
 		<div class="footer-grid">
 			<div class="social mb-4 text-center">
@@ -226,7 +224,7 @@ if(isset($_POST['submit'])){
 				</ul>
 			</div>
 			<div class="agileits_w3layouts-copyright mt-4 text-center">
-				<p>© 2018 Intrend. All Rights Reserved | Design by <a href="http://w3layouts.com/" target="=_blank"> W3layouts </a></p>
+				<p>© HMS 2022 | Uva Wellassa University</p>
 		</div>
 		</div>
 	</div>
